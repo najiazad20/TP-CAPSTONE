@@ -1,0 +1,12 @@
+# TP (Capstone) : Finaliser l'application "Réservation de salles"
+<img width="1247" height="279" alt="Capture d&#39;écran 2026-03-05 043055" src="https://github.com/user-attachments/assets/4126e6b5-6f2b-4205-a300-eb7fdc353aa6" />
+<img width="554" height="341" alt="Capture d&#39;écran 2026-03-05 043119" src="https://github.com/user-attachments/assets/14881852-a0e4-43fe-8fa2-0d321eaeabc4" />
+<img width="1106" height="756" alt="Capture d&#39;écran 2026-03-05 043155" src="https://github.com/user-attachments/assets/849be8e1-43f8-457f-b967-dc4756b5017a" />
+<img width="857" height="811" alt="Capture d&#39;écran 2026-03-05 043212" src="https://github.com/user-attachments/assets/b2c64553-d2cd-4a84-9bf9-17c04da4ef9c" />
+<img width="926" height="796" alt="Capture d&#39;écran 2026-03-05 043229" src="https://github.com/user-attachments/assets/2148402c-b1d1-4af2-9f6e-c3a4221a9079" />
+<img width="773" height="865" alt="Capture d&#39;écran 2026-03-05 043326" src="https://github.com/user-attachments/assets/2a3fafc9-b26a-42ef-8915-014e6b62411a" />
+<img width="1015" height="821" alt="Capture d&#39;écran 2026-03-05 043345" src="https://github.com/user-attachments/assets/1306976e-c4d1-49d3-9da0-b169103fe3c1" />
+<img width="634" height="549" alt="Capture d&#39;écran 2026-03-05 043401" src="https://github.com/user-attachments/assets/b95b2be8-83f5-4a1b-8bd3-f8d56dd7d08e" />
+<img width="824" height="353" alt="Capture d&#39;écran 2026-03-05 043427" src="https://github.com/user-attachments/assets/00484c7d-3af6-41ea-a453-4bf1d93240d3" />
+<img width="882" height="585" alt="Capture d&#39;écran 2026-03-05 043446" src="https://github.com/user-attachments/assets/ce6d3c39-f920-431c-8bd3-9aaac0c1b5d6" />
+<img width="688" height="451" alt="Capture d&#39;écran 2026-03-05 043459" src="https://github.com/user-attachments/assets/305a7b19-a37d-489c-9a2c-9ed97cb9f932" />
